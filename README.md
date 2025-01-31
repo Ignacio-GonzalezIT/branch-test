@@ -1,3 +1,3 @@
 # branch-test
 
-branch v1.2.0 and branch v1.8.0 and new feat xdures
+branch v1.2.0 and branch v1.8.0 and new features
